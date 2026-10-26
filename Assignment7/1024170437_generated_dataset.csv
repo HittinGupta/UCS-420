@@ -1,0 +1,15 @@
+Ticket_ID,Ticket_Text
+T01,I am unable to use the VPN during the lab. I don't know what changed.
+T02,The printer won't print; it isn't jammed.
+T03,The e-mail crashes while opening. Is there another solution?
+T04,Wifi was working yesterday during the lab. Can you check this?
+T05,Email me at helpdesk@university.edu.
+T06,Projector keeps disconnecting while uploading the file. This is urgent.
+T07,I tried restarting the printer when connected to campus Wi-Fi. Can you check this?
+T08,Only 2 of 30 PCs boot after 3.5 hours.
+T09,I couldn't connect to the printer after resetting my password. The same problem occurs again.
+T10,The projector has stopped syncing. The same problem occurs again.
+T11,I tried restarting the LMS on my laptop. Please resolve it.
+T12,I cannot access the VPN while uploading the file. It works on another computer.
+T13,VPN is showing an error after restarting the system. It worked yesterday.
+T14,The LMS says 'Not Submitted'.
